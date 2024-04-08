@@ -48,7 +48,7 @@ function getDate(argv) {
 				return toString(dayData - date)
 			}
 			break
-	}	A
+	}
 }
 const argv = yargs(hideBin(process.argv))
 .command(
